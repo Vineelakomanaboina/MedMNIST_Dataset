@@ -19,4 +19,4 @@ Training process
 
 Results and observations
 
-Please refer to the PDF (MedMNIST_Project_Details.pdf) for a full overview.
+Please refer to the PDF (Report (2).pdf) for a full overview.
